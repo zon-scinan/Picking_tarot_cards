@@ -8,7 +8,7 @@ And there is also using ZodiacSign1 class.
 
 */
 import java.lang.Math;
-// PROGRAM STAR HERE...
+// PROGRAM START HERE...
 
 // class declaration start here...
 
@@ -29,13 +29,13 @@ public class SevenChakra {
         String newLine = " is your random number\n\n";
         String text = " your chakra is ";
 
-        String zero = "Root chakra (Red)\nI am the earth ground...\nငါသည် မဟာပထဝီမြေကြီး ဖြစ်တယ်...\n\n";
-        String one = "Sacral chakra (Orange)\nI am water...\nငါသည် ရေ ဖြစ်တယ်...\n\n";
-        String two = "Solar Plexus chakra (Yellow)\nI am flame...\nငါသည် မီးတောက် ဖြစ်တယ်...\n\n";
-        String three = "Heart chakra (Green)\nI am wind...\nငါသည် လေ ဖြစ်တယ်...\n\n";
-        String four = "Throat chakra (Blue)\nI am the sky...\nငါသည် အပြာရောင်ကောင်းကင် ဖြစ်တယ်...\n\n";
-        String five = "Third eye chakra (Indigo)\nI am light...\nငါသည် အလင်း ဖြစ်တယ်...\n\n";
-        String six = "Crown chakra (Purple)\nI am universe...\nငါသည် မဟာစင်္ကြာဝဠာ ဖြစ်တယ်...\n\n";
+        String zero = "Root chakra (Red)\nI am the earth ground...\n\n";
+        String one = "Sacral chakra (Orange)\nI am water...\n\n";
+        String two = "Solar Plexus chakra (Yellow)\nI am flame...\n\n";
+        String three = "Heart chakra (Green)\nI am wind...\n\n";
+        String four = "Throat chakra (Blue)\nI am the sky...\n\n";
+        String five = "Third eye chakra (Indigo)\nI am light...\n\n";
+        String six = "Crown chakra (Purple)\nI am universe...\\n\n";
 
         // initialization String objects end here.
 
@@ -70,3 +70,4 @@ public class SevenChakra {
 // class declaration end here
 
 // PROGRAM END HERE.
+
